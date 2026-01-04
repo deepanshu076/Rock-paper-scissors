@@ -1,0 +1,3 @@
+# For basic functionality, no external packages required
+# Optional: Pillow for image support
+# pillow>=10.0.0

@@ -1,0 +1,13 @@
+{
+  "total_games": 11,
+  "wins": 5,
+  "losses": 4,
+  "draws": 2,
+  "win_rate": 45.45,
+  "last_played": "00:28:40",
+  "game_mode": "single",
+  "final_scores": {
+    "player1": 5,
+    "player2": 4
+  }
+}
